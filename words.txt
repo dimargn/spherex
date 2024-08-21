@@ -1,0 +1,10 @@
+Frodo
+Gandalf
+Aragorn
+Legolas
+Gimli
+Samwise
+Boromir
+Galadriel
+Saruman
+Sauron
